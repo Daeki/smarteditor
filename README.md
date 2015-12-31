@@ -2,6 +2,7 @@
 A text editor that provides thesaurus results and relevant information for user-typed content.
 
 The editor was built by Musab Ahmed Popatia, Mohammed Fituri and Yasser El-Sayed for Carnegie Apps Hackathon 2015 held in Carnegie Mellon University Qatar.
+
 The editor won the Best Technical Challenge Award.
 
 #Techologies
